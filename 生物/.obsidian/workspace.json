@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workspace/万猛生物基础600题.md",
+                "file": "植物生理学/植物生理学.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workspace/万猛生物基础600题.md",
+                "file": "植物生理学/植物生理学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workspace/万猛生物基础600题.md",
+                "file": "植物生理学/植物生理学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workspace/万猛生物基础600题.md"
+                "file": "植物生理学/植物生理学.md"
               }
             }
           },
@@ -159,14 +159,24 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "6df2050a53557bf4",
+  "active": "758eacf07c9331eb",
   "lastOpenFiles": [
+    "遗传学/遗传学.md",
+    "植物生理学/植物生理学.md",
+    "细胞生物学/细胞生物学.md",
+    "微生物学/微生物学.md",
+    "生物化学/生物化学.md",
+    "生物工程学/生物工程学.md",
+    "生态学/生态学.md",
+    "进化生物学/进化生物学.md",
+    "分子生物学/分子生物学.md",
+    "动物生理学/动物生理学.md",
+    "错题集/万猛生物基础600题.md",
     "细胞生物学/原核细胞与真核细胞/原核细胞.md",
-    "Workspace/万猛生物基础600题.md",
     "cedict_ts.u8",
     "质粒.md",
     "Workspace/质粒.md",
-    "Workspace",
+    "错题集",
     "细胞生物学/原核细胞与真核细胞/未命名.md"
   ]
 }
