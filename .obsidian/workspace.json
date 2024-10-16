@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "ce65d816ab81da35",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd8c889b89e42c87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6df2050a53557bf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workspace/万猛生物基础600题.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4e0ff483dcc3cc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c3347db02b87695",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "758eacf07c9331eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60f993d70b1aaa49",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b2f8a73ff52c519",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce744ce78f71fa73",
+    "type": "split",
+    "children": [
+      {
+        "id": "05e361b0e0bae8a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f774234983e4c21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Workspace/万猛生物基础600题.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf4344e9767f76cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Workspace/万猛生物基础600题.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f349f539c0da9de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ba697f24f0b78c52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Workspace/万猛生物基础600题.md"
+              }
+            }
+          },
+          {
+            "id": "9f6fbac3ded46faf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "6df2050a53557bf4",
+  "lastOpenFiles": [
+    "细胞生物学/原核细胞与真核细胞/原核细胞.md",
+    "Workspace/万猛生物基础600题.md",
+    "cedict_ts.u8",
+    "质粒.md",
+    "Workspace/质粒.md",
+    "Workspace",
+    "细胞生物学/原核细胞与真核细胞/未命名.md"
+  ]
+}

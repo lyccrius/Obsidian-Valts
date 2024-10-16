@@ -1,0 +1,9 @@
+{
+  "strictLineBreaks": true,
+  "useTab": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true,
+  "livePreview": false,
+  "autoPairMarkdown": false
+}
