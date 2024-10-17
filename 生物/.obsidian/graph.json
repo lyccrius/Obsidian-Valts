@@ -5,40 +5,54 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "[\"index\":true]",
+      "query": "[\"type\":root]",
       "color": {
         "a": 1,
-        "rgb": 15684954
+        "rgb": 65407
       }
     },
     {
-      "query": "path:基本概念 OR path:无机化学 OR path:物理化学 OR path:有机化学  ",
+      "query": "[\"type\":subject]",
       "color": {
         "a": 1,
-        "rgb": 46250
+        "rgb": 3978097
       }
     },
     {
-      "query": "path:无机化学  ",
+      "query": "[\"type\":chapter]",
       "color": {
         "a": 1,
-        "rgb": 46250
+        "rgb": 35723
+      }
+    },
+    {
+      "query": "[\"type\":session]",
+      "color": {
+        "a": 1,
+        "rgb": 65535
+      }
+    },
+    {
+      "query": "[\"type\":page]",
+      "color": {
+        "a": 1,
+        "rgb": 14811135
       }
     }
   ],
   "collapse-display": true,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.697231833910035,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.4019828977761037,
+  "linkDistance": 30,
+  "scale": 0.19450022690616095,
   "close": true
 }

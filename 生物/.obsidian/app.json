@@ -5,5 +5,8 @@
   "alwaysUpdateLinks": true,
   "showInlineTitle": true,
   "livePreview": false,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "propertiesInDocument": "source",
+  "showIndentGuide": true,
+  "newFileLocation": "current"
 }

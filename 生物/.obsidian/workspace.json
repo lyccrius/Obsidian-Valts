@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cd8c889b89e42c87",
+        "id": "c8eb34b5951ce849",
         "type": "tabs",
         "children": [
           {
-            "id": "6df2050a53557bf4",
+            "id": "b20ba15faaf98e83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "植物生理学/植物生理学.md",
+                "file": "生物化学/组成细胞的分子/细胞中的元素和化合物/鲜重与干重.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "鲜重与干重"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -48,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": ">",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -85,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "植物生理学/植物生理学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +100,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
             }
           },
           {
@@ -102,10 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "植物生理学/植物生理学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "出链"
             }
           },
           {
@@ -116,7 +126,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -124,9 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "植物生理学/植物生理学.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           },
           {
@@ -138,7 +150,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           }
         ]
@@ -159,24 +173,78 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "758eacf07c9331eb",
+  "floating": {
+    "id": "4d551374acb7ba91",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6e3b4bad8fbb898e",
+        "type": "window",
+        "children": [
+          {
+            "id": "ec4a76cfda397040",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f55ec643a865a8b8",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "关系图谱"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 171,
+        "y": 20,
+        "width": 1364,
+        "height": 880,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f55ec643a865a8b8",
   "lastOpenFiles": [
-    "遗传学/遗传学.md",
-    "植物生理学/植物生理学.md",
-    "细胞生物学/细胞生物学.md",
-    "微生物学/微生物学.md",
-    "生物化学/生物化学.md",
-    "生物工程学/生物工程学.md",
-    "生态学/生态学.md",
-    "进化生物学/进化生物学.md",
-    "分子生物学/分子生物学.md",
-    "动物生理学/动物生理学.md",
-    "错题集/万猛生物基础600题.md",
-    "细胞生物学/原核细胞与真核细胞/原核细胞.md",
-    "cedict_ts.u8",
-    "质粒.md",
-    "Workspace/质粒.md",
-    "错题集",
-    "细胞生物学/原核细胞与真核细胞/未命名.md"
+    "生物化学/组成细胞的分子/细胞中的元素和化合物/鲜重与干重.md",
+    "生物化学/组成细胞的分子/细胞中的元素和化合物/细胞中的元素和化合物.md",
+    "生物化学/组成细胞的分子/细胞中的无机物/细胞中的水.md",
+    "生物化学/组成细胞的分子/细胞中的无机物/细胞中的无机盐.md",
+    "生物化学/组成细胞的分子/细胞中的无机物/细胞中的无机物.md",
+    "生物化学/组成细胞的分子/细胞中的元素和化合物/主要元素.md",
+    "生物化学/组成细胞的分子/细胞中的元素和化合物/组成细胞的化合物.md",
+    "生物化学/组成细胞的分子/细胞中的元素和化合物/组成细胞的元素.md",
+    "生物化学/组成细胞的分子/细胞中的无机物/燃烧.md",
+    "生物化学/组成细胞的分子/细胞中的无机物/种子.md",
+    "生物化学/组成细胞的分子/细胞中的无机物/结合水.md",
+    "生物化学/组成细胞的分子/细胞中的无机物/晒干.md",
+    "生物化学/组成细胞的分子/细胞中的无机物/自由水.md",
+    "生物化学/组成细胞的分子/细胞中的无机物/烘干.md",
+    "细胞生物学/走近细胞/细胞的多样性和统一性/动物细胞.md",
+    "细胞生物学/走近细胞/细胞的多样性和统一性/植物细胞.md",
+    "细胞生物学/走近细胞/细胞的多样性和统一性/人体细胞.md",
+    "生物化学/组成细胞的分子/细胞中的元素和化合物/最基本元素.md",
+    "生物化学/组成细胞的分子/细胞中的元素和化合物/元素的统一性和差异性.md",
+    "生物化学/组成细胞的分子/细胞中的元素和化合物/元素的统一性.md",
+    "生物化学/组成细胞的分子/细胞中的元素和化合物/元素的差异性.md",
+    "生物化学/组成细胞的分子/细胞中的元素和化合物/鲜重.md",
+    "生物化学/组成细胞的分子/细胞中的元素和化合物/微量元素.md",
+    "生物化学/组成细胞的分子/细胞中的元素和化合物/基本元素.md",
+    "生物化学/组成细胞的分子/细胞中的元素和化合物/干重.md",
+    "生物化学/组成细胞的分子/细胞中的元素和化合物/大量元素.md",
+    "人名/未命名",
+    "人名",
+    "梳理",
+    "人名",
+    "遗传学/遗传因子的发现/孟德尔的豌豆杂交实验",
+    "遗传学/基因与染色体的关系/伴性遗传",
+    "遗传学/基因与染色体的关系/基因在染色体上",
+    "遗传学/基因与染色体的关系/减数分裂和受精作用",
+    "遗传学/基因突变及其他变异/人类遗传病",
+    "遗传学/基因突变及其他变异/染色体变异"
   ]
 }
